@@ -1,4 +1,4 @@
-# Look, who’s here! 👾
+# Hi, I am Daniil Zinovenko  👾
 
 ##  I'm begginer React Front-end developer 💥 
 
