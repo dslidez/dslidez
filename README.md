@@ -1,7 +1,6 @@
-### Look, who’s here! 👋
+## Look, who’s here! 👋
 
-About me
-I'm begginer React Front-end developer from Belarus
+### I'm begginer React Front-end developer 
 
 Languages and Tools
 
