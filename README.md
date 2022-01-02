@@ -1,6 +1,6 @@
-# Look, who’s here! 👋
+# Look, who’s here! 👾
 
-## I'm begginer React Front-end developer 
+##  I'm begginer React Front-end developer 💥 
 
 ### Languages and Tools:
 ![react](https://img.shields.io/badge/react-282828?style=for-the-badge&logo=react) 
@@ -12,12 +12,12 @@
 
 # ![HTML](https://img.shields.io/badge/-HTML-282828?style=for-the-badge&logo=html5&logoColor=9966CC) ![CSS](https://img.shields.io/badge/-CSS-282828?style=for-the-badge&logo=css3&logoColor=9966CC) ![CSS Modules](https://img.shields.io/badge/-CSS&#032;Modules-282828?style=for-the-badge&logo=less&logoColor=9966CC) ![Styled Components](https://img.shields.io/badge/-Styled&#032;Components-282828?style=for-the-badge&)
 
-### ✉️ Connect with me there :
+### Connect with me there ⤵ :
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn&logoColor=9966CC)][linkedin]
 [![Instagram](https://img.shields.io/badge/-Instagram-282c34?style=for-the-badge&logo=instagram&logoColor=9966CC)][instagram]
-[![gmail](https://img.shields.io/badge/-mail-282c34?style=for-the-badge&logo=gmail&logoColor=9966CC)][instagram]
+[![gmail](https://img.shields.io/badge/-mail-282c34?style=for-the-badge&logo=gmail&logoColor=9966CC)][gmail]
 
 [instagram]: https://www.instagram.com/d.slide.z/
 [linkedin]: https://www.linkedin.com/in/daniil-zinovenko-b01878229/
