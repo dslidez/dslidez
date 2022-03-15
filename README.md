@@ -1,6 +1,6 @@
 # Hi, I am Daniil Zinovenko  👾
 
-##  I'm begginer React Front-end developer 💥 
+##  I'm React Front-end developer 💥 
 
 ### Languages and Tools:
 ![react](https://img.shields.io/badge/react-282828?style=for-the-badge&logo=react) 
